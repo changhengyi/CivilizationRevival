@@ -1,2 +1,0 @@
-# CivilizationRevival
-game guide
